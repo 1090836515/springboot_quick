@@ -37,8 +37,9 @@ public class Person {
     /**
      * <bean class="Person">
      * <property name="lastName" value="字面量/${key}从环境变量、配置文件中获取值/#{SpEL}"></property>
-     * <bean/>
+     * <bean/>dsadaad
      */
+
 
     //lastName必须是邮箱格式
      //@Email
